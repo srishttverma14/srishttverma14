@@ -33,6 +33,20 @@ Hi, I'm **Srishti Verma**! I enjoy creating practical web applications and exper
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>❤️ Automated ECG Classification</h3>
+      <p>A Streamlit-based ECG analysis application that classifies heartbeat signals into five categories using a PyTorch CNN–LSTM attention model.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>ECG waveform upload and visualization</li>
+        <li>Attention heatmaps for model inspection</li>
+        <li>Prediction comparisons under simulated Gaussian noise and baseline wander</li>
+      </ul>
+      <p>
+        <a href="https://github.com/srishttverma14/automated-ecg-classification"><img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github" alt="Automated ECG Classification source code" /></a>
+      </p>
+      <sub>Python · PyTorch · CNN–LSTM · Attention · Streamlit · Pandas</sub>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎙️ AI Mock Interview</h3>
       <p>An AI-powered interview practice application designed to help users prepare for interviews.</p>
       <p>
@@ -41,6 +55,8 @@ Hi, I'm **Srishti Verma**! I enjoy creating practical web applications and exper
       </p>
       <sub>Next.js · TypeScript · React · Clerk · MongoDB</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>✍️ Signature Downloader</h3>
       <p>Create a personalized digital signature, preview its appearance, and download it in PNG, JPEG, or SVG format.</p>
@@ -50,14 +66,14 @@ Hi, I'm **Srishti Verma**! I enjoy creating practical web applications and exper
       </p>
       <sub>HTML · CSS · JavaScript · html2canvas · FileSaver.js</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🧮 Handwritten Digit Prediction</h3>
-      <p>A Jupyter Notebook project exploring machine-learning techniques for classifying handwritten digits using the MNIST dataset.</p>
+      <p>A Jupyter Notebook project exploring machine-learning techniques to classify handwritten digits using the MNIST dataset.</p>
       <p><a href="https://github.com/srishttverma14/handwritten_digit_prediction"><img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github" alt="Handwritten Digit Prediction repository" /></a></p>
       <sub>Python · Jupyter Notebook · Machine Learning · MNIST</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio</h3>
       <p>A personal website to introduce my work and showcase projects in one place.</p>
@@ -66,14 +82,6 @@ Hi, I'm **Srishti Verma**! I enjoy creating practical web applications and exper
         <a href="https://github.com/srishttverma14/portfolio"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github" alt="Portfolio source" /></a>
       </p>
       <sub>React · HTML · CSS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💜 Daily Motivation Generator</h3>
-      <p>A Streamlit app that generates a short motivational message based on a user's selected mood.</p>
-      <p><a href="https://github.com/srishttverma14/Motivation-Generator"><img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github" alt="Motivation Generator repository" /></a></p>
-      <sub>Python · Streamlit · OpenAI-compatible API · OpenRouter</sub>
     </td>
     <td width="50%" valign="top">
       <h3>⭕ Tic-Tac-Toe</h3>
